@@ -1,4 +1,4 @@
-# Visual Vox 🌟
+# Visual Vox 声眸🌟
 
 > **Multimodal Voice-Guided Visual Accessibility Assistant for the Visually Impaired**  
 > *让声音成为视障人士探索微观世界的明眸。*
