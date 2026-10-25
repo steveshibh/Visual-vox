@@ -92,7 +92,7 @@
 ### 环境安装
 
 ```bash
-git clone https://github.com/your-username/visual-vox.git
+git clone https://github.com/steveshibh/Visual-vox.git
 cd visual-vox
 pip install -r requirements.txt
 ```
@@ -159,3 +159,4 @@ visual-vox/
 ## 📄 6. 开源协议 (License)
 
 本项目采用 [MIT License](LICENSE) 开源协议。
+

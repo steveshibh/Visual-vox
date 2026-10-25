@@ -56,3 +56,4 @@ class VoiceSpeaker:
                 return
             except Exception:
                 pass
+

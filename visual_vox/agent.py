@@ -159,3 +159,4 @@ class VisualVoxAgent:
             self.current_state = self.history_stack.pop()
             return self.current_state
         return None
+

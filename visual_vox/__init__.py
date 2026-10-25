@@ -6,3 +6,4 @@ from .recognizer import VoiceRecognizer
 
 __all__ = ["VisualVoxAgent", "VoiceSpeaker", "VoiceRecognizer"]
 __version__ = "1.0.0"
+

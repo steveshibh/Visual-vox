@@ -55,3 +55,4 @@ class VoiceRecognizer:
                     if key in cand:
                         return cand
         return None
+
